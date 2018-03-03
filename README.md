@@ -16,7 +16,7 @@ Model Building and Validation:
   - HOG + Multilayer Perceptron and Stacked Models (minimum loss and max accuracy)
   - Convolutional Neural Network and Stacked Models (minimum loss and max accuracy)
     
- * Not using pretrained Neural Networks
+Not using pretrained Neural Networks
 -------------------------------------------------------------------------------------------
 
 Files:
