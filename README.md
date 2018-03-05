@@ -17,6 +17,7 @@ Model Building and Validation:
   - Convolutional Neural Network and Stacked Models (minimum loss and max accuracy)
     
 Not using pretrained Neural Networks
+
 -------------------------------------------------------------------------------------------
 
 Files:
